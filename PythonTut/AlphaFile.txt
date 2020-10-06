@@ -1,0 +1,3 @@
+file is open in write mode
+file is open in append mode
+file is open in read and write mode
